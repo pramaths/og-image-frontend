@@ -22,22 +22,22 @@ const OG_IMAGE_TYPES = [
 
 const EXAMPLE_IMAGES = [
   { 
-    url: 'https://via.placeholder.com/1200x630/3498db/ffffff?text=Default+OG+Image', 
+    url: 'https://firebasestorage.googleapis.com/v0/b/port-folio-3c85e.appspot.com/o/og-images%2FHello%20World-1722891582648.png?alt=media&token=c4186674-e3e0-4a68-8928-4789654214bf', 
     type: 'default', 
     title: 'Default (Title and Content)' 
   },
   { 
-    url: 'https://via.placeholder.com/1200x630/e74c3c/ffffff?text=With+Background+Image', 
+    url: 'https://firebasestorage.googleapis.com/v0/b/port-folio-3c85e.appspot.com/o/og-images%2FHello%20World-1722891525711.png?alt=media&token=a1312dac-011f-48d0-9e0c-493e39fdbc8c', 
     type: 'withBackground', 
     title: 'With Background Image' 
   },
   { 
-    url: 'https://via.placeholder.com/1200x630/2ecc71/ffffff?text=Image+on+Top+Left', 
+    url: 'https://firebasestorage.googleapis.com/v0/b/port-folio-3c85e.appspot.com/o/og-images%2FHello%20World-1722893023397.png?alt=media&token=d63ed768-66de-46f8-b509-888b5380aee9', 
     type: 'topLeftImage', 
     title: 'Image on Top Left' 
   },
   { 
-    url: 'https://via.placeholder.com/1200x630/f39c12/ffffff?text=Split+View', 
+    url: 'https://firebasestorage.googleapis.com/v0/b/port-folio-3c85e.appspot.com/o/og-images%2FHello%20World-1722890965501.png?alt=media&token=a1983ffd-8d89-4c36-bbea-389050b51947', 
     type: 'splitView', 
     title: 'Split View (Image and Content)' 
   },
