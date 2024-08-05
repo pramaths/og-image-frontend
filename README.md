@@ -86,3 +86,6 @@ This project is hosted on Vercel. To deploy your own instance:
 - Lucide-react for icons
 
 
+Welcome to my project! Below is a quick video demo:
+
+[Watch the demo video](public/demo.mp4)
